@@ -1,0 +1,11 @@
+# Configuration for attributing commits with emails to GitHub user profiles
+# Used during codeowners generation.
+
+# List the emails associated with the given username
+# The commits associated with these emails will be attributed to
+# the username in this yaml map. Any number of emails may be listed
+
+attribution:
+    obasoro:
+        - obasorokunle@gmail.com
+attribution-fallback: []
